@@ -49,8 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Category
-    url:               /_featured_categories/
+  - title:             Posts
+    url:               /posts/
   - title:             Documentation
     url:               /docs/
   - title:             About
