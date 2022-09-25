@@ -49,10 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /posts/
-  - title:             Projects
-    url:               /projects/
+  - title:             Category
+    url:               /_featured_categories/
   - title:             Documentation
     url:               /docs/
   - title:             About
