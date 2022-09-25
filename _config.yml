@@ -49,8 +49,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Category
-    url:               /example/
+  - title:             Blog
+    url:               /blog/
+  - title:             Projects
+    url:               /projects/
   - title:             Documentation
     url:               /docs/
   - title:             About
@@ -420,4 +422,4 @@ jekyll_compose:
         path: /assets/img/sidebar-bg.jpg
       links:
         - title: Project Link
-          url: https://example.com
+          url: https://github.com/Magnum1213?tab=repositories
