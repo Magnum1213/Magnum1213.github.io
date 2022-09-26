@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Posts
+title: Naver BoostCamp AI Tech
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: posts
+slug: aitech
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is Main Posts.
+  This is Naver BoostCamp AI Tech Posts.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
