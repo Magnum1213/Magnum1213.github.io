@@ -17,7 +17,7 @@ baseurl:               '/'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  kr
+lang:                  ko-kr, en-us
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Magnum1213-Blog
@@ -25,8 +25,7 @@ title:                 Magnum1213-Blog
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  This is github blog test of magnum1213.
 
 # A shorter description for the sidebar.
 tagline:               Github Blog Test
