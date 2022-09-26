@@ -1,16 +1,16 @@
 ---
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
-layout: tag-list
+layout: list
 
 # The title of the tag's page.
-title: Days
+title: AI Tech
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: days
+slug: aitech
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-#description: >
-#  This is Main Posts.
+description: >
+  This is Main Posts.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
