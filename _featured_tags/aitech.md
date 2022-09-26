@@ -1,16 +1,16 @@
 ---
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
-layout: list
+layout: tag-list
 
 # The title of the tag's page.
-title: Naver BoostCamp AI Tech
+title: AITech
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: aitech
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-description: >
-  This is Naver BoostCamp AI Tech Posts.
+#description: >
+#  This is Main Posts.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
